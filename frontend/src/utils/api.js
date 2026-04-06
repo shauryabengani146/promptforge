@@ -1,5 +1,5 @@
 // utils/api.js
-const API_BASE_URL = "/";
+const API_BASE_URL = "https://promptforge-backend-dg57.onrender.com";
 
 /**
  * Analyzes a prompt using the backend API
